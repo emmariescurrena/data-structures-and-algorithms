@@ -1,0 +1,40 @@
+Menu x
+    View x
+        Menu x
+    Change password
+        Select pass
+            Create new password
+                Select other pass to change
+                Menu
+    Change user x
+        Select pass x
+            Insert new user x
+                Select other user to change x
+                Menu x
+    Delete password x
+        Select pass x
+            Delete password x
+                Select other pass to delete x
+                Menu x
+    Create new pass X
+        Insert user x
+        Use previous user x
+            Def parameters x
+                Generate x
+                    Export x
+                        Create pass for other user x
+                        Menu x
+                    Regenerate same parameters x
+                    Set new parameters x
+                    Create pass for other user x
+                    Menu x
+            New parameters x
+                Generate x
+                    Export x
+                        Create pass for other user x
+                        Menu x
+                    Regenerate same parameters x
+                    Set new parameters x
+                    Create pass for other user x
+                    Menu x
+    Close x
